@@ -7,10 +7,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-
-
-
-
     <artifactId>cloud-api-commons</artifactId>
     <dependencies>
         <dependency>
